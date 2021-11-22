@@ -1,0 +1,68 @@
+{
+  "zone.bogosbinted": {
+    "sounds": [
+      {
+        "name": "ambient/cave/cave1"
+      }
+    ],
+    "subtitle": "Photos Printed?"
+  },
+  "block.note_block.bell": {
+    "sounds": [
+      {
+        "name": "jerma/aa"
+      }
+    ],
+    "subtitle": "AA",
+    "replace": true
+  },
+  "block.note_block.flute": {
+    "sounds": [
+      {
+        "name": "jerma/ee"
+      }
+    ],
+    "subtitle": "EE",
+    "replace": true
+  },
+  "block.note_block.iron_xylophone": {
+    "sounds": [
+      {
+        "name": "jerma/oo"
+      }
+    ],
+    "subtitle": "OO",
+    "replace": true
+  },
+  "block.note_block.cow_bell": {
+    "sounds": [
+      {
+        "name": "jerma/aj"
+      }
+    ],
+    "subtitle": "Audio Jungle",
+    "replace": true
+  },
+  "block.dispenser.dispense": {
+    "sounds": [
+      {
+        "name": "random/click",
+        "volume": 0.1
+      }
+    ],
+    "subtitle": "subtitles.block.dispenser.dispense",
+    "replace": true
+  },
+  "block.dispenser.fail": {
+    "sounds": [
+      {
+        "name": "random/click",
+        "volume": 0.1
+      }
+    ],
+    "subtitle": "subtitles.block.dispenser.fail",
+    "replace": true
+  }
+
+
+}
