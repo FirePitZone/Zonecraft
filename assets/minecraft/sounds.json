@@ -43,6 +43,16 @@
     "subtitle": "Audio Jungle",
     "replace": true
   },
+  "item.spyglass.use": {
+    "sounds": ["item/spyglass/use"],
+    "subtitle": "subtitles.item.spyglass.use",
+    "replace": true
+  },
+  "item.spyglass.stop_using": {
+    "sounds": ["item/spyglass/stop"],
+    "subtitle": "subtitles.item.spyglass.stop_using",
+    "replace": true
+  },
   "block.dispenser.dispense": {
     "sounds": [
       {
