@@ -11,5 +11,7 @@
 	"item.minecraft.music_disc_13.desc": "penis music",
 	"item.minecraft.music_disc_cat.desc": "Darude Sandstorm",
 	"item.minecraft.music_disc_mall.desc": "Channel 9 News",
-	"item.minecraft.music_disc_wait.desc": "Kevin MacLeod - Carefree"
+	"item.minecraft.music_disc_wait.desc": "Kevin MacLeod - Carefree",
+	
+	"block.minecraft.tnt": "T"
 }
