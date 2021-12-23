@@ -72,7 +72,11 @@
     ],
     "subtitle": "subtitles.block.dispenser.fail",
     "replace": true
-  }
+  },
+  
+  "entity.zombie.ambient":{
+    "sounds":["jerma/tim"]
+  },
 
 
 }

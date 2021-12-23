@@ -1,6 +1,6 @@
 {
-	"item.minecraft.music_disc_blocks.desc_": "C418 - blocks",
-	"item.minecraft.music_disc_far.desc_": "C418 - far",
+	"item.minecraft.music_disc_blocks.desc": "Nutbush (real)",
+	"item.minecraft.music_disc_far.desc": "half a second of never gonna give you up",
 	"item.minecraft.music_disc_mellohi.desc_": "C418 - mellohi",
 	"item.minecraft.music_disc_strad.desc_": "C418 - strad",
 	"item.minecraft.music_disc_11.desc": "MPG5 - voyd_opera",
@@ -11,5 +11,7 @@
 	"item.minecraft.music_disc_13.desc": "penis music",
 	"item.minecraft.music_disc_cat.desc": "Darude Sandstorm",
 	"item.minecraft.music_disc_mall.desc": "Channel 9 News",
-	"item.minecraft.music_disc_wait.desc": "Kevin MacLeod - Carefree"
+	"item.minecraft.music_disc_wait.desc": "Kevin MacLeod - Carefree",
+	
+	"block.minecraft.tnt": "T"
 }
